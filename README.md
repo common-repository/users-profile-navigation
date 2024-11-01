@@ -1,0 +1,2 @@
+# Users profile navigation
+WordPress Plugin that simplifies the navigation through user profiles. After installation adds additional functionality to jump to the previous and next profile at the bottom of the profile page.
